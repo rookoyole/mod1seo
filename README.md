@@ -57,9 +57,8 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
+    <li><a href="#about-the-project">About The Project</a><li>
+    <li><a href="#links">Project Links</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -89,14 +88,17 @@ Corrected the following CSS code:
 * Consolidated selectors
 * Updated footer selectors to match semantic element updates in HTML
 
-<!-- CONTACT -->
-## Contact
-
-Kyle Ryan - [rookoyole@gmail.com](rookoyole@gmail.com)
+<!-- PROJECT LINKS -->
+## Project Links
 
 Hosted Link: [https://rookoyole.github.io/mod1seo/](https://rookoyole.github.io/mod1seo/)
 
-Project Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyole/mod1seo)
+Repository Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyole/mod1seo)
+
+<!-- CONTACT -->
+## Contact
+
+Kyle Ryan - rookoyole@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
