@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rookoyole/mod1seo">
-    <img src="images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
+    <img src="assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Horiseon Site Refactor</h3>
@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](assets/images/screenshot.png)
 
 
 Corrected the following HTML code:
@@ -106,8 +106,8 @@ Project Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyol
 [forks-url]: https://github.com/rookoyole/mod1seo/network/members
 [stars-shield]: https://img.shields.io/github/stars/rookoyole/mod1seo.svg?style=for-the-badge
 [stars-url]: https://github.com/rookoyole/mod1seo/stargazers
-[issues-shield]: https://img.shields.io/github/issuesrookoyole/mod1seo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/rookoyole/mod1seo.svg?style=for-the-badge
 [issues-url]: https://github.com/rookoyole/mod1seo/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
-[product-screenshot]: assets/images/screenshot.png
+[product-screenshot]: assets/images/site-screenshot.jpg
