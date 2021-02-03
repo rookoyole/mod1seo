@@ -92,9 +92,10 @@ Corrected the following CSS code:
 <!-- CONTACT -->
 ## Contact
 
-Kyle Ryan - [email](rookoyole@gmail.com)
+Kyle Ryan - [rookoyole@gmail.com](rookoyole@gmail.com)
 
 Hosted Link: [https://rookoyole.github.io/mod1seo/](https://rookoyole.github.io/mod1seo/)
+
 Project Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyole/mod1seo)
 
 
