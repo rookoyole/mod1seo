@@ -94,6 +94,7 @@ Corrected the following CSS code:
 
 Kyle Ryan - [email](rookoyole@gmail.com)
 
+Hosted Link: [https://rookoyole.github.io/mod1seo/](https://rookoyole.github.io/mod1seo/)
 Project Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyole/mod1seo)
 
 
@@ -106,11 +107,7 @@ Project Link: [https://github.com/rookoyole/mod1seo](https://github.com/rookoyol
 [stars-shield]: https://img.shields.io/github/stars/rookoyole/mod1seo.svg?style=for-the-badge
 [stars-url]: https://github.com/rookoyole/mod1seo/stargazers
 [issues-shield]: https://img.shields.io/github/issuesrookoyole/mod1seo.svg?style=for-the-badge
+[issues-url]: https://github.com/rookoyole/mod1seo/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[product-screenshot]: images/screenshot.png
-
-[![Contributors][contributors-shield]][https://github.com/rookoyole/mod1seo/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/rookoyole/mod1seo/network/members]
-[![Stargazers][stars-shield]][https://github.com/rookoyole/mod1seo/stargazers]
-[![Issues][issues-shield]][https://github.com/rookoyole/mod1seo/issues]
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/kyle-ryan-5b526023]
+[linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
+[product-screenshot]: assets/images/screenshot.png
